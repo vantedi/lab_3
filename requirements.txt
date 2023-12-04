@@ -1,0 +1,5 @@
+psutil~=5.9.5
+pynput~=1.7.6
+thread-py==1.0.1
+mouse==0.7.1
+
